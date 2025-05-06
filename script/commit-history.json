@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "6a4c5b61aa3036e5f58bb2bdc3cdba9b88f8a371",
     "author": "Alejandro Bustamante",
     "commit": {
       "date": "2025-05-06T15:38:29.000Z",
       "message": "1",
-      "url": "https://github.com/AleBustamante/base-test/commit/HEAD"
+      "url": "https://github.com/AleBustamante/base-test/commit/6a4c5b61aa3036e5f58bb2bdc3cdba9b88f8a371"
     },
     "stats": {
       "total": 5,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Bustamante",
+    "commit": {
+      "date": "2025-05-06T15:39:55.000Z",
+      "message": "2",
+      "url": "https://github.com/AleBustamante/base-test/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-05-06"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
